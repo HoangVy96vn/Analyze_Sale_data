@@ -8,3 +8,5 @@ What products sold the most and Why?
 Note: this data was taken from internet public source
 
 File report: Sale annual report.ipynb
+
+Presentation: https://www.canva.com/design/DAFgSsCDsyo/CLpyOMieY01O8Ab0ALKywg/view?utm_content=DAFgSsCDsyo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
